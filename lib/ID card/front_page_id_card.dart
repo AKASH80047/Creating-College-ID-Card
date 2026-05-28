@@ -114,7 +114,7 @@ class _IdCardScreenState
               color:
                   Colors.black.withOpacity(0.2),
 
-              blurRadius: 10,
+              blurRadius: 12,
               spreadRadius: 2,
             ),
           ],
